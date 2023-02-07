@@ -2,7 +2,7 @@
 <p align="center">Sou um desenvolvedor junior no caminho para me tornar Full Stack</p>
 <p>Recém terminei o curso do professor Luiz Otávio Miranda: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado">Curso de Python 3 do Básico Ao Avançado</a>, que também inclui como módulos adicionais HTML5 e CSS3, e Django para backend.</p>
 
-<p>Devido minha área de graduação e mestrado, tenho experiência com sistemas microcontrolados e embarcados. Em paralelo aos estudos para migrar para web development estou aprimorando minha órtese robótica controlada por reconhecimento de padrões de sinais eletromiográficos de superfície, um projeto open-source para auxiliar pessoas com lesões e doenças neuromusculares.</p>
+<p>Devido minha área de graduação e mestrado, tenho experiência com sistemas microcontrolados e embarcados. Em paralelo aos estudos para migrar para web development estou aprimorando minha órtese robótica controlada por reconhecimento de padrões de sinais eletromiográficos de superfície, um projeto open source para auxiliar pessoas com lesões e doenças neuromusculares.</p>
 
 <div align="center">
   <a href="https://github.com/hv-pm">
