@@ -1,8 +1,9 @@
-<h2 align="center">Welcome e bem-vindo também! 🦝</h2>
-<p align="center">Sou um desenvolvedor junior no caminho para me tornar Full Stack</p>
-<p>Recém terminei o curso do professor Luiz Otávio Miranda: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado">Curso de Python 3 do Básico Ao Avançado</a>, que também inclui como módulos adicionais HTML5 e CSS3, e Django para backend.</p>
+<a href="https://github.com/hv-pm/hv-pm/blob/main/README.pt-br.md"><img title="PT-BR" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></img></a>
+<h2 align="center">Bem-vindo and welcome as well! 🦝</h2>
+<p align="center">I'm a Junior Dev aiming to become a Full Stack Dev</p>
+<p>I've recently completed an Udemy course taught by Luiz Otávio Miranda: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado">Python 3 from Basic to Advanced</a>, which also includes classes for HTML5 and CSS3, plus Django for backend.</p>
 
-<p>Devido minha área de graduação e mestrado, tenho experiência com sistemas microcontrolados e embarcados. Em paralelo aos estudos para migrar para web development estou aprimorando minha órtese robótica controlada por reconhecimento de padrões de sinais eletromiográficos de superfície, um projeto open source para auxiliar pessoas com lesões e doenças neuromusculares.</p>
+<p>Thanks to my grad in Control and Automation Engineering and master's in Biomedical Engineering, I acquired a lot of experience with microcontroller and embedded systems. Along with my study routine to migrate to the web development field, I'm working on improvements for my robotic hand-orthosis controlled by surface myoelectric pattern recongnition: an open source project that aids people with neuromuscular disorder and diseases in their activities of daily living.</p>
 
 <div align="center">
   <a href="https://github.com/hv-pm">
@@ -12,7 +13,7 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <p><b>Ferramentas e linguagens que utilizo:</b></p>
+  <p><b>Tools and programming languages I work with:</b></p>
   <img align="center" height="30" width="40" title="Arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" height="30" width="40" title="MATLAB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" height="30" width="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
