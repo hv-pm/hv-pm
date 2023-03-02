@@ -1,5 +1,6 @@
 <a href="https://github.com/hv-pm"><img title="EN-US" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></img></a>
-<h2 align="center">Welcome e bem-vindo também! 🦝</h2>
+<p align="center"><img height="160em" width="159em" src="https://github.com/hv-pm/hv-pm/blob/main/img/avatar.png"></img>
+<h2 align="center">Welcome e bem-vindo também!</h2>
 <p align="center">Sou um desenvolvedor junior no caminho para me tornar Full Stack</p>
 <p>Recém terminei o curso do professor Luiz Otávio Miranda: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado">Curso de Python 3 do Básico Ao Avançado</a>, que também inclui como módulos adicionais HTML5 e CSS3, e Django para backend.</p>
 
