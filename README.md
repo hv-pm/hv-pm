@@ -1,5 +1,6 @@
-<a href="https://github.com/hv-pm/hv-pm/blob/main/README.pt-br.md"><img title="PT-BR" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></img></a>
-<h2 align="center">Bem-vindo and welcome as well! 🦝</h2>
+<a href="https://github.com/hv-pm/hv-pm/blob/main/README.pt-br.md"><img title="PT-BR" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></img></a><br>
+<p align="center"><img height="160em" width="159em" src="https://github.com/hv-pm/hv-pm/blob/main/img/avatar.png"></img>
+<h2 align="center">Bem-vindo and welcome as well!</h2>
 <p align="center">I'm a Junior Dev aiming to become a Full Stack Dev</p>
 <p>I've recently completed an Udemy course taught by Luiz Otávio Miranda: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado">Python 3 from Basic to Advanced</a>, which also includes classes for HTML5 and CSS3, plus Django for backend.</p>
 
@@ -11,6 +12,7 @@
     </img>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hv-pm&layout=compact&title_color=a31595&bg_color=30,fff375,ffc02b&border_color=30,fff375,ffc02b"> 
   </a>
+  
 </div>
 <div style="display: inline_block"><br>
   <p><b>Tools and programming languages I work with:</b></p>
