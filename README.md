@@ -10,7 +10,7 @@
   <a href="https://github.com/hv-pm">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hv-pm&show_icons=true&icon_color=a31595&title_color=a31595&count_private=true&border_color=30,ffc02b,fff375&bg_color=30,ffc02b,fff375">
     </img>
-    <img height="180em" src="https://github-stats-extended.vercel.vercel.app/api/top-langs/?username=hv-pm&layout=compact&title_color=a31595&bg_color=30,fff375,ffc02b&border_color=30,fff375,ffc02b"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hv-pm&layout=compact&title_color=a31595&bg_color=30,fff375,ffc02b&border_color=30,fff375,ffc02b"> 
   </a>
   
 </div>
